@@ -1,0 +1,16 @@
+PODS:
+  - XTAlertController (0.1.0)
+
+DEPENDENCIES:
+  - XTAlertController (from `../`)
+
+EXTERNAL SOURCES:
+  XTAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XTAlertController: 4b1e5692f0463aeaed9c3f326783a7fd59d0ad2e
+
+PODFILE CHECKSUM: 04c6b128499ee961e6a7f4264cf3da7cdde9ac5a
+
+COCOAPODS: 1.10.0

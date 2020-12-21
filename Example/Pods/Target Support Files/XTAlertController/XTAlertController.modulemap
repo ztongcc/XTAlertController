@@ -1,0 +1,6 @@
+framework module XTAlertController {
+  umbrella header "XTAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}
